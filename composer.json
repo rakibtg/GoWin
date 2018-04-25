@@ -10,8 +10,8 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "GoWin\\": "src/"
+        "psr-4": {
+            "GoWin": "src/"
         }
     },
     "require": {}
