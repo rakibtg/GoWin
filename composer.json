@@ -1,0 +1,18 @@
+{
+    "name": "rakibtg/gowin",
+    "description": "Testing packagist and composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rakibtg",
+            "email": "rakibtg@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "GoWin": "src/"
+        }
+    },
+    "require": {}
+}
